@@ -4,7 +4,7 @@
 
 <details>
   
-  <summary>:hammer_and_wrench: CRUD</summary>
+  <summary>:hammer_and_wrench: JQUERY</summary>
 
 # jQuery nedir? <br />
 
