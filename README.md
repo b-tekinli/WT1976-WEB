@@ -29,6 +29,8 @@ jQuery ile yapılabilecekler:
 - Animasyon
 - Ajax
 
+<br />
+
 ![domTree](https://github.com/b-tekinli/WT1976-WEB/blob/main/images/domTree.png)
 ![domReady](https://github.com/b-tekinli/WT1976-WEB/blob/main/images/domReady.jpg)
 
