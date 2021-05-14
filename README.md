@@ -19,6 +19,8 @@ jQuery ile yapılabilecekler:
 - Animasyon
 - Ajax
 
+<br />
+
 Faydalı linkler:
 - jQuery hakkında her şey ==> https://oscarotero.com/jquery/
 - jQuery w3schools ==> https://www.w3schools.com/jquery/
