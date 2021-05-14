@@ -1,3 +1,11 @@
+- [Jquery](https://github.com/b-tekinli/WT1976-WEB#jquery-nedir-)
+- [Bootstrap]()
+- [C#]()
+
+<details>
+  
+  <summary>:hammer_and_wrench: CRUD</summary>
+
 # jQuery nedir? <br />
 
 ![jquery](https://github.com/b-tekinli/WT1976-WEB/blob/main/images/jquery.png)
@@ -30,3 +38,4 @@ Faydalı linkler:
 - jQuery hakkında her şey ==> https://oscarotero.com/jquery/
 - jQuery w3schools ==> https://www.w3schools.com/jquery/
 
+</details>
