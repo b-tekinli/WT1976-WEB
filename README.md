@@ -1,5 +1,7 @@
 # jQuery nedir? <br />
 
+![jquery](https://github.com/b-tekinli/WT1976-WEB/blob/main/images/jquery.png)
+
 Küçük boyutlu, hızlı ve zengin özellikli bir JavaScript kütüphanesidir.
 
 Normalde JavaScript ile yaptığınız birçok işlemi daha az kodla ve
@@ -18,6 +20,9 @@ jQuery ile yapılabilecekler:
 - Olay Yönetimi (event handling)
 - Animasyon
 - Ajax
+
+![domTree](https://github.com/b-tekinli/WT1976-WEB/blob/main/images/domTree.png)
+![domReady](https://github.com/b-tekinli/WT1976-WEB/blob/main/images/domReady.jpg)
 
 <br />
 
