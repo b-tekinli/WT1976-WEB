@@ -1,6 +1,5 @@
 - [Jquery](https://github.com/b-tekinli/WT1976-WEB#jquery-nedir-)
 - [Bootstrap]()
-- [C#]()
 
 <details>
   
