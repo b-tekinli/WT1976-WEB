@@ -1,4 +1,13 @@
+- [Jquery](https://github.com/b-tekinli/WT1976-WEB#jquery-nedir-)
+- [Bootstrap]()
+
+<details>
+  
+  <summary>:hammer_and_wrench: JQUERY</summary>
+
 # jQuery nedir? <br />
+
+![jquery](https://github.com/b-tekinli/WT1976-WEB/blob/main/images/jquery.png)
 
 Küçük boyutlu, hızlı ve zengin özellikli bir JavaScript kütüphanesidir.
 
@@ -21,7 +30,13 @@ jQuery ile yapılabilecekler:
 
 <br />
 
+![domTree](https://github.com/b-tekinli/WT1976-WEB/blob/main/images/domTree.png)
+![domReady](https://github.com/b-tekinli/WT1976-WEB/blob/main/images/domReady.jpg)
+
+<br />
+
 Faydalı linkler:
 - jQuery hakkında her şey ==> https://oscarotero.com/jquery/
 - jQuery w3schools ==> https://www.w3schools.com/jquery/
 
+</details>
