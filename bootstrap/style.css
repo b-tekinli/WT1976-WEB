@@ -1,0 +1,30 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #fff;
+}
+
+.containerlg{
+    width:80%;
+    margin: auto;
+}
+
+@media only screen and(max-width:600px){
+    .containerlg{
+        width:95%;
+        margin: auto;
+        overflow: hidden;
+    }
+}
+
+#col8{
+    background-color: #f2f2f2;
+}
+
+.bg-color{
+  background-color:  #f2f2f2;
+}
+
+.fontSize{
+    font-size: 100px;
+
+}
