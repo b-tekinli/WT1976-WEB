@@ -56,7 +56,7 @@ $(document).ready(function () {
 
 
 
-    // task 7
+    // task 7 
     $("#gorev7 > button").click(function () {
         var headings = Array.from($("h2:contains('can')"));
         headings.forEach(head => {
