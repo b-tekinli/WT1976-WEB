@@ -39,8 +39,5 @@ Faydalı linkler:
 - jQuery hakkında her şey ==> https://oscarotero.com/jquery/
 - jQuery w3schools ==> https://www.w3schools.com/jquery/
 
-  <summary>:hammer_and_wrench: BOOTSTRAP</summary>
-  
-  # Bootstrap nedir? <br />
   
 </details>
