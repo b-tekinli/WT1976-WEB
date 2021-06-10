@@ -39,5 +39,10 @@ Faydalı linkler:
 - jQuery hakkında her şey ==> https://oscarotero.com/jquery/
 - jQuery w3schools ==> https://www.w3schools.com/jquery/
 
+  <summary>:hammer_and_wrench: BOOTSTRAP</summary>
+  
+ # Bootstrap nedir?
+  
+  Web sayfaları veya uygulamalarında kullanılabilecek, HTML ve CSS tabanlı tasarım şablonlarını içerir.
   
 </details>
