@@ -7,7 +7,7 @@
 
 # jQuery nedir? <br />
 
-![jquery](https://github.com/b-tekinli/WT1976-WEB/blob/main/images/jquery.png)
+![jquery](https://github.com/b-tekinli/WT1976-WEB/blob/main/jquery/images/jquery.png)
 
 Küçük boyutlu, hızlı ve zengin özellikli bir JavaScript kütüphanesidir.
 
@@ -30,8 +30,8 @@ jQuery ile yapılabilecekler:
 
 <br />
 
-![domTree](https://github.com/b-tekinli/WT1976-WEB/blob/main/images/domTree.png)
-![domReady](https://github.com/b-tekinli/WT1976-WEB/blob/main/images/domReady.jpg)
+![domTree](https://github.com/b-tekinli/WT1976-WEB/blob/main/jquery/images/domTree.png)
+![domReady](https://github.com/b-tekinli/WT1976-WEB/blob/main/jquery/images/domReady.jpg)
 
 <br />
 
